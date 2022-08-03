@@ -1,0 +1,13 @@
+/*
+ Theme Name:     f322 Child
+ Template:       f322
+
+*/
+
+ 
+ 
+
+/* Theme customization starts here */
+.woocommerce div.product .product_title {
+    font-family: 'Titillium Web', Montserrat, Arial, Helvetica, sans-serif !important;
+}
